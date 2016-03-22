@@ -1,0 +1,38 @@
+body{
+	background-color: #e7e7e7;
+}
+.jumbotron{
+	background-color: #fff;
+}
+
+.lr7-box-shadow {
+	
+	/*box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12) !important;*/
+	/*margin: 10px;*/
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);	
+}
+.lr7-jumbotron {
+	padding-left: 100px; 
+}
+.lr7-right-sidebar {
+    width: 750px; 
+    min-height: 200px; 
+    background-color: #fff; 
+    float: right; 
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
+.lr7-page-header > h2 {
+    margin-left: 20px;
+}
+.lr7-progress {
+    margin: 10px 50px 0 -5px;
+    height: 16px;
+}
+.personal-info {
+    margin: 20px 10px 20px 15px;
+}
+.personal-info > h4 {
+    margin: 10px 0 10px 0;  
+    padding: 10px 0 10px 0;  
+}
